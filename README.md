@@ -12,7 +12,7 @@
 ### 2. Forkez le dépôt
 
 - Naviguez vers le [dépôt](https://github.com/vitrinechusj/depots-chusj)
-- Cliquez sur le bouton **Fork** en haut à droite pour créer une copie du dépôt dans votre propre compte GitHub.
+- Cliquez sur le bouton **Fork** en haut à droite pour créer une copie du dépôt dans votre propre compte GitHub
 
 ---
 
