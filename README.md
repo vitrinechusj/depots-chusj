@@ -4,8 +4,9 @@
 
 - Êtes-vous **membre du personnel du CHU Sainte-Justine** ou **affilié·e au Centre de recherche Azrieli du CHU Sainte-Justine**?
 - Votre équipe publie-t-elle ses codes dans un **dépôt GitHub public**?
+- Avez-vous consulté le **[guide sur les bonnes pratiques GitHub du Centre de recherche](https://enseignement.chusj.org/getmedia/483e0900-6af9-411d-87bc-db23a9b05f73/GUI_gdr_bonnes-pratiques_github.pdf)**?
 
-✅ Si vous avez répondu **oui** aux deux questions, vous pouvez poursuivre.
+✅ Si vous avez répondu **oui** aux trois questions, vous pouvez poursuivre.
 
 ---
 
