@@ -41,7 +41,7 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 ### 5. Créez une Pull Request
 
 - Naviguez vers votre dépôt forké
-- Cliquez sur **Compare & pull request**
+- Cliquez sur **Compare & pull request** ou sur **Contribute - Open pull request**
 - Vérifez les changements et ajoutez un commentaire si nécessaire
 - Cliquez sur **Create a pull request**
 
