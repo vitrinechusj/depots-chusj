@@ -9,17 +9,14 @@
 
 ---
 
-### 2. Accédez au fichier Markdown contenant la [liste des dépôts publics](https://github.com/vitrinechusj/depots-chusj/blob/main/depots-publics-chusj.md).
+### 2. Forkez le dépôt
+
+- Naviguez vers le [dépôt](https://github.com/vitrinechusj/depots-chusj)
+- Cliquez sur le bouton **Fork** en haut à droite pour créer une copie du dépôt dans votre propre compte GitHub.
 
 ---
 
-### 3. Cliquez sur **"Edit this file"** (icône de crayon en haut à droite du fichier)
-
-GitHub vous redirigera vers l’éditeur Markdown.
-
----
-
-### 4. Ajoutez le lien du dépôt que vous souhaitez afficher dans la liste
+### 3. Ajoutez le lien du dépôt que vous souhaitez afficher dans la [liste des dépôts publics](https://github.com/vitrinechusj/depots-chusj/blob/main/depots-publics-chusj.md)
 
 Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
@@ -28,7 +25,7 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
 ---
 
-### 5. Sauvegardez les modifications
+### 4. Sauvegardez les modifications
 
 - Cliquez sur le bouton **"Commit changes"**
 - Ajoutez un message décrivant votre modification
@@ -36,7 +33,16 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 **Exemple :**  
 `Ajout du lien vers le dépôt de l'équipe PROTEINE`
 
-- Confirmez que vous souhaitez **commit**.
+- Confirmez que vous souhaitez **commit**
+
+---
+
+### 5. Créez une Pull Request
+
+- Naviguez vers votre dépôt forké
+- Cliquez sur **Compare & pull request**
+- Vérifez les changements et ajoutez un commentaire si nécessaire
+- Cliquez sur **Create a pull request**
 
 ---
 
