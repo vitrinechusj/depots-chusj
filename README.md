@@ -42,7 +42,7 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
 - Naviguez vers votre dépôt forké
 - Cliquez sur **Compare & pull request** ou sur **Contribute - Open pull request**
-- Vérifez les changements et ajoutez un commentaire si nécessaire
+- Vérifiez les changements et **mentionnez votre affiliation dans les commentaires de votre pull request**
 - Cliquez sur **Create a pull request**
 
 ---
