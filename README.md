@@ -17,7 +17,7 @@
 
 ---
 
-### 3. Ajoutez le lien du dépôt que vous souhaitez afficher dans la [liste des dépôts publics](https://github.com/vitrinechusj/depots-chusj/blob/main/depots-publics-chusj.md)
+### 3. Ajoutez le lien du dépôt que vous souhaitez afficher dans le fichier `depots-publics-chusj.md`
 
 Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
