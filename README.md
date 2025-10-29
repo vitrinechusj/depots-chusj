@@ -36,7 +36,7 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 **Exemple :**  
 `Ajout du lien vers le dépôt de l'équipe PROTEINE`
 
-3. Confirmez que vous souhaitez **commit**.
+- Confirmez que vous souhaitez **commit**.
 
 ---
 
