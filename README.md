@@ -51,3 +51,8 @@ Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
 Par souci de **qualité et de sécurité**, une **vérification manuelle** sera effectuée par l’équipe de **Soutien GDR**.
 Votre modification apparaîtra dans la liste une fois **approuvée**.
+
+---
+
+### 💡 Besoin d'aide?
+Écrivez-nous à [soutien.gdr.hsj@ssss.gouv.qc.ca](mailto:soutien.gdr.hsj@ssss.gouv.qc.ca)
