@@ -21,8 +21,8 @@
 
 Utilisez la syntaxe suivante : `[nom de l'équipe](lien vers le dépôt)`
 
-🔹 Le texte entre crochets représente le **nom de votre équipe de recherche** ou du **PI responsable du laboratoire**  
-🔹 Le lien entre parenthèses pointe vers votre **dépôt GitHub public**
+- Le texte entre crochets représente le **nom de votre équipe de recherche** ou du **PI responsable du laboratoire**  
+- Le lien entre parenthèses pointe vers votre **dépôt GitHub public**
 
 ---
 
